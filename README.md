@@ -128,9 +128,9 @@ cd fish_ads</code></pre>
     <th>Order Form</th>
   </tr>
   <tr>
-    <td><img src="screenshots/home.png" width="300" alt="Home Screenshot"></td>
-    <td><img src="screenshots/details.png" width="300" alt="Details Screenshot"></td>
-    <td><img src="screenshots/form.png" width="300" alt="Form Screenshot"></td>
+    <td><img src="assets/images/ScreenFishAds.png" width="300" alt="Home Screenshot"></td>
+    <td><img src="assets/images/ScreenFishAds1.png" width="300" alt="Details Screenshot"></td>
+    <td><img src="assets/images/ScreenFishAds3.png" width="300" alt="Form Screenshot"></td>
   </tr>
 </table>
 
